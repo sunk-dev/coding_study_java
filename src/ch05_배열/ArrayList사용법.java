@@ -42,7 +42,7 @@ public class ArrayList사용법 {
 //        저장된 데이터 여부를 반환
         System.out.println(list3.isEmpty());
 //        ArrayList의 모든 데이터 정렬
-        Collections.sort(list3)
+        Collections.sort(list3);
         System.out.println(list3);
         
 
